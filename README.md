@@ -1,9 +1,8 @@
-<div align="center">
-  <!-- Imagem animada para dar um toque especial -->
+<!--<div align="center">  
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="GIF de boas-vindas" />
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <!-- Badge do LinkedIn -->
@@ -36,10 +35,10 @@
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="left">
-  Sou um desenvolvedor apaixonado por tecnologia e inovação, atuando como Desenvolvedor Full Stack com experiência em projetos web e mobile.<br/><br/>
-  - 🔭 Atualmente, trabalho em diversos projetos que envolvem desenvolvimento de software e soluções personalizadas;<br/>
+  Sou um desenvolvedor apaixonado por tecnologia e inovação, atuando como Desenvolvedor Full Stack com experiência em projetos web.<br/><br/>
+  - 🔭 Atualmente, trabalho em diversos projetos que envolvem desenvolvimento de software de alta disponibilidade e soluções personalizadas;<br/>
   - 📚 Estou sempre aprendendo novas tecnologias e metodologias, ampliando meus conhecimentos;<br/>
-  - ⚡ No meu tempo livre, gosto de explorar novas ideias, contribuir com projetos open source e aprimorar meus skills.
+  - ⚡ No meu tempo livre, gosto de explorar novas ideias, contribuir com projetos open source e aprimorar minhas skills.
 </p>
 
 <br/>
@@ -74,9 +73,8 @@
 
 <br/>
 
-<h3 align="left">🔥 Meus Estatísticas:</h3>
+<h3 align="left">🔥 Minhas Estatísticas:</h3>
 
 <div align="center">
-  <!-- Estatísticas de contribuição (streaks, por exemplo) -->
-  <img src="https://streak-stats.demolab.com?user=vitorvaf&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=vitorvaf&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
